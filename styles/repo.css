@@ -1,6 +1,13 @@
 div{
 
     background-color: aqua;
-    margin: 0px;
+    /* margin: 0px; */
     padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+h2, h3{
+    text-align: center;
+    color: black;
+    text-decoration: underline;
 }
